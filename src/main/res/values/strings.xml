@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Product App</string>
+    <string name="product_name">Название товара</string>
+    <string name="product_description">Описание товара закуска, представляющая собой тонкие ломтики картофеля</string>
+    <string name="buy">Купить</string>
+    <string name="product_image">Изображение товара</string>
+</resources>
